@@ -1,0 +1,30 @@
+{
+  "name": "attendance_bot",
+  "version": "1.0.0",
+  "description": "A bot that automatically checks your presence in the leonard-de-vinci pole. No more false abcences.",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blablalf/attendance_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "LDV",
+    "ESILV",
+    "EMLV",
+    "leonard-de-vinci.net"
+  ],
+  "author": "blablalf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blablalf/attendance_bot/issues"
+  },
+  "homepage": "https://github.com/blablalf/attendance_bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
